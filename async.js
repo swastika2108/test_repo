@@ -6,3 +6,5 @@ async function kitchen(){
     await hey_this();
     console.log("")
 }
+
+.thenby(()=>)
